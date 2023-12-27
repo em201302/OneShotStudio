@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <link rel="icon" type="image/x-icon" href="/Images/ONESHOT.svg">
+    <link rel="stylesheet" href="/style.css">
+    <title>OneShot - Try out</title>
+  </head>
+  <body>
+    <div class="main">
+      <h1>Try out forms</h1>
+      <p>Here you can try out this studio! Click the button below and go to the message, add First name, last name, email, and skills. You may change anything under the line.</p>
+      <div class="tryout-buttons"
+        <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=VpCqJRzjqJHWSXvbcrwxkjXrVRdWqdsRxkPXnbXzDQSvFxpWKjfDwfkXnTDpQTlgQvlcgHG"><img src="/Images/Message.svg" width="140px"></a>
+        <a href="home"><img src="/Images/cancel.svg" width="140px"></a>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>OneShot Team</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="/Images/favicon.svg">
+  </head>
+  <body>
+    <header>
+      <a href="index.html"><img src="Images/Logo.svg" width="75px" class="Logo"></a>
+      <a href="home"><img src="Images/Home.svg" width="75px"></a>
+      <a href="about"><img src="/Images/About.svg" width="75px"></a>
+      <a href="ourteam"><img src="Images/OurTeam.svg" width="75"></a>
+      <a href="tryout"><img src="Images/Try-out.svg" width="75"></a>
+      <a href="projects"><img src="Images/Projects.svg" width="75"></a>
+    </header>
+    <div class="main">
+      <h1>OneShot Studio's Team</h1>
+      <p>This is our team.</p>
+      <div id="people">
+        <a href="/people/elim"><img src="/Images/CEO.svg" width="135px"></a>
+      </div>
+    </div>
+  </body>
+</html>

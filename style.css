@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.Logo {
+  padding-left: 8px;
+  padding-top: 8px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+}
+
+header {
+  background-color: #1f1f1f;
+}
+
+body {
+  background-color: #4c4c4c;
+}
+
+#navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+#people {
+  display: flex;
+  justify-content: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.tryout-buttons {
+  background-color: #1f1f1f;
+  border: none;
+}

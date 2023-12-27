@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Projects - OneShot</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="Images/favicon.svg">
+  </head>
+  <body>
+    <div class="main">
+      <h1>Projects</h1>
+      <h3>We work on projects all the time. Here are a few we worked on recently:</h3>
+      <a href="/web/GenreGenerater"><img src="/Images/Genre Generator.svg"></a>
+    </div>
+  </body>
+</html>
